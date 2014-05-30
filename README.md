@@ -1,8 +1,5 @@
 #nlpy -  A natural language processing library written in python
 
-How to use the modules:
-
-import nlpy
 
 nlpy.ngram:
 
