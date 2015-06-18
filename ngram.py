@@ -30,7 +30,7 @@ class Ngram:
         word_choice_sim *= 100 
         ave_choice_sim = ((float(bigram_count) / len(self.bigram)) + (float(trigram_count) / len(self.trigram))) / 2
         ave_choice_sim *= 100
-        report = ["This writing sample is about %s%% in terms of word choice" % (str(word_choice_sim)),
+        report = ["This writing sample is about %s%% the same in terms of word choice" % (str(word_choice_sim)),
                   "This writing sample uses about %s%% of the same phrasing as the provided second sample" % (str(ave_choice_sim))
                   ]
         return report

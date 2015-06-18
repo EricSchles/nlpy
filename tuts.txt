@@ -1,0 +1,5 @@
+http://stevenloria.com/how-to-build-a-text-classification-system-with-python-and-textblob/
+--Naive Bayes classifier basics
+
+http://textblob.readthedocs.org/en/latest/quickstart.html
+--sentiment analysis
